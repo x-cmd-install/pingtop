@@ -7,7 +7,7 @@ about:
   head: 7f783ea
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:30:03Z
+  collectedAt: 2026-09-04T21:09:02Z
 timeline:
   created: 2019-04-01
   lastCommit: 2026-07-13
@@ -80,6 +80,29 @@ total:
   openIssue: 4
   commit: 182
 ---
+path: /home/runner/.x-repo/github.com/laixintao/pingtop
+collectedAt: 2026-09-04T21:09:02Z
+loc:
+  Python:
+    code: 2095
+    comments: 48
+    blanks: 407
+    files: 21
+  ReStructuredText:
+    code: 149
+    comments: 0
+    blanks: 78
+    files: 1
+  Toml:
+    code: 56
+    comments: 0
+    blanks: 9
+    files: 1
+total:
+  code: 2300
+  comments: 48
+  blanks: 494
+  files: 23
 ---
 date: "2026-08-24"
 repo:
