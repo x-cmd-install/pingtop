@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: pingtop
+  binname: pingtop
+  visiblename: pingtop
+  version: 0.14.1
+  origversion: 0.14.1-1
+  status: unique
+  summary: htop-style live dashboard for ping
+  maintainers:
+    - guerro@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: pingtop-bin
+  binname: pingtop-bin
+  visiblename: pingtop-bin
+  version: 0.14.1
+  origversion: 0.14.1-1
+  status: unique
+  summary: htop-style live dashboard for ping
+  maintainers:
+    - guerro@aur
+  licenses:
+    - Apache-2.0
