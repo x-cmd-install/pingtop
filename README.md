@@ -50,12 +50,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-11 | 0 | 6 | 0 | 0 | 0 | 25 |
-| 360d | 2025-10-13 | 0 | 14 | 0 | 0 | 0 | 45 |
-| last720d | 2024-10-18 | 0 | 15 | 0 | 0 | 0 | 62 |
+| 30d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-12 | 0 | 6 | 0 | 0 | 0 | 25 |
+| 360d | 2025-10-14 | 0 | 14 | 0 | 0 | 0 | 45 |
+| last720d | 2024-10-19 | 0 | 15 | 0 | 0 | 0 | 62 |
 
 ## Improve this data
 
@@ -66,4 +66,4 @@ Install metadata for pingtop lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:54:12Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T05:59:42Z._
